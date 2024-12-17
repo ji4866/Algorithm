@@ -1,6 +1,6 @@
 # [level 0] 나이 출력 - 120820 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120820) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120820?language=python3) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 12월 16일 21:10:41
+2024년 12월 17일 19:42:34
 
 ### 문제 설명
 
